@@ -1,0 +1,74 @@
+<vbox width="100%" height="100%" >
+	<textfield width="150" text="Slot Name"/>
+	<dropdown text="Manufacturer" id="Manufacturer"/>
+	<dropdown text="Base Class" id="BaseClass"/>
+	<dropdown text="Type" id="Type"/>
+	<dropdown text="Art Style" id="ArtStyle"/>
+	<dropdown text="Theme" id="Theme"/>
+	<dropdown text="Brand" id="Brand"/>
+	<dropdown text="Recognizable Theme" id="RecognizableTheme"/>
+	<dropdown text="Dev Year" id="DevYear"/>
+	<textfield width="150" text="Bundle Size Android" id="Bundle Size Android"/>
+	<textfield width="150" text="Heap Android" id="Bundle Size Android"/>
+	<textfield width="150" text="Audio Android" id="Bundle Size Android"/>
+	<textfield width="150" text="Bundle Size iOS" id="Bundle Size Android"/>
+	<textfield width="150" text="Heap iOS" id="Bundle Size Android"/>
+	<textfield width="150" text="Audio iOS" id="Bundle Size Android"/>
+	<checkbox text="Hot Chick" id="HotChick" selected="false"/>
+	<checkbox text="Standard Layout" id="StandardLayout" selected="false"/>
+	<checkbox text="Animals" id="Animals" selected="false"/>
+	<checkbox text="1 tall reels" id="1 tall reels" selected="false"/>
+	<checkbox text="Accumulating" id="Accumulating" selected="false"/>
+	<checkbox text="AnyWay Pay" id="AnyWay Pay" selected="false"/>
+	<checkbox text="Blade" id="Blade" selected="false"/>
+	<checkbox text="Board Game" id="Board Game" selected="false"/>
+	<checkbox text="Bonus Guarantee" id="Bonus Guarantee" selected="false"/>
+	<checkbox text="Bonus Wheel" id="Bonus Wheel" selected="false"/>
+	<checkbox text="Changing reelsets" id="Changing reelsets" selected="false"/>
+	<checkbox text="Choose Free Spin Round" id="Choose Free Spin Round" selected="false"/>
+	<checkbox text="Clumps" id="Clumps" selected="false"/>
+	<checkbox text="Collection" id="Collection" selected="false"/>
+	<checkbox text="Colossal" id="Colossal" selected="false"/>
+	<checkbox text="Credit Wheel" id="Credit Wheel" selected="false"/>
+	<checkbox text="Dice based Feature" id="Dice based Feature" selected="false"/>
+	<checkbox text="Extending Reels" id="Extending Reels" selected="false"/>
+	<checkbox text="Free Spin Wheel" id="Free Spin Wheel" selected="false"/>
+	<checkbox text="Free Spins" id="Free Spins" selected="false"/>
+	<checkbox text="Free Spins Retrigger" id="Free Spins Retrigger" selected="false"/>
+	<checkbox text="Full Reel Wilds" id="Full Reel Wilds" selected="false"/>
+	<checkbox text="Game In Game" id="Game In Game" selected="false"/>
+	<checkbox text="Horizontal Wheel" id="Horizontal Wheel" selected="false"/>
+	<checkbox text="Hot Zone" id="Hot Zone" selected="false"/>
+	<checkbox text="Jackpot" id="Jackpot" selected="false"/>
+	<checkbox text="Locking wilds" id="Locking wilds" selected="false"/>
+	<checkbox text="Mighty Spins" id="Mighty Spins" selected="false"/>
+	<checkbox text="Mix Pays" id="Mix Pays" selected="false"/>
+	<checkbox text="Multiple Reelsets" id="Multiple Reelsets" selected="false"/>
+	<checkbox text="Multiplier Wheel" id="Multiplier Wheel" selected="false"/>
+	<checkbox text="Mystery Jackpot" id="Mystery Jackpot" selected="false"/>
+	<checkbox text="Non-Spinning Free Spins" id="Non-Spinning Free Spins" selected="false"/>
+	<checkbox text="OMG Tall Symbols " id="OMG Tall Symbols " selected="false"/>
+	<checkbox text="Pick Em" id="Pick Em" selected="false"/>
+	<checkbox text="Portrait Symbols" id="Portrait Symbols" selected="false"/>
+	<checkbox text="Quick Hit Scatter/Pick 3" id="Quick Hit Scatter/Pick 3" selected="false"/>
+	<checkbox text="Random Wilds" id="Random Wilds" selected="false"/>
+	<checkbox text="Replicating Wilds" id="Replicating Wilds" selected="false"/>
+	<checkbox text="ReSpin" id="ReSpin" selected="false"/>
+	<checkbox text="Revealing Clumps " id="Revealing Clumps " selected="false"/>
+	<checkbox text="Roaming Wilds" id="Roaming Wilds" selected="false"/>
+	<checkbox text="Second Reelset Jackpots" id="Second Reelset Jackpots" selected="false"/>
+	<checkbox text="Speed Spins" id="Speed Spins" selected="false"/>
+	<checkbox text="Stacks" id="Stacks" selected="false"/>
+	<checkbox text="Super Charged Reels" id="Super Charged Reels" selected="false"/>
+	<checkbox text="Super Multi Pay" id="Super Multi Pay" selected="false"/>
+	<checkbox text="Symbol Transfer" id="Symbol Transfer" selected="false"/>
+	<checkbox text="Symbols function as Wilds" id="Symbols function as Wilds" selected="false"/>
+	<checkbox text="U-Shoot" id="U-Shoot" selected="false"/>
+	<checkbox text="Watch Bonus" id="Watch Bonus" selected="false"/>
+	<checkbox text="Wild Multipliers" id="Wild Multipliers" selected="false"/>
+	<checkbox text="Wild Transfer" id="Wild Transfer" selected="false"/>
+	<checkbox text="Winstack" id="Winstack" selected="false"/>
+	<checkbox text="Wrap Around" id="Wrap Around" selected="false"/>
+	<checkbox text="Has Ambient Music" id="Has Ambient Music" selected="false"/>
+ 
+</vbox>
